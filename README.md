@@ -45,4 +45,4 @@ pkg.compareVersion('1.0','1.1');
 ```
 
 ---
-Used by Typescript and Webpack.
+Created by Typescript and Webpack.
