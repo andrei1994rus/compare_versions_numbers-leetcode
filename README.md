@@ -44,3 +44,5 @@ import pkg from 'compare_versions_numbers-leetcode';
 pkg.compareVersion('1.0','1.1');
 ```
 
+---
+Used by Typescript and Webpack.
