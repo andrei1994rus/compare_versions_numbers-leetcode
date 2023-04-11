@@ -13,12 +13,13 @@ Compare returns:
 
 Example:
 
+```
 import {compareVersion} from 'compare_versions_numbers-leetcode';
 
 ...
 
 compareVersion('1.0','1.1');
-
+```
 
 ---
 # Using in Vanilla JS
