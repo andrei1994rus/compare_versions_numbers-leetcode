@@ -1,6 +1,6 @@
 {
   "name": "compare_versions_numbers-leetcode",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Library for compare versions (algorithm from leetcode)",
   "main": "./dist/index.js",
   "scripts": {
