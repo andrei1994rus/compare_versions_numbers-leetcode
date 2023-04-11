@@ -2,6 +2,8 @@
 
 Lib for compare versions (algorithm from [Leetcode](https://leetcode.com/problems/compare-version-numbers/description/)).
 
+---
+# Result
 
 Compare returns:
 - 1 (if v1>v2);
